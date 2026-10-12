@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files & secrets
+.env
+*.env
+*.key
+
+# Research output directories & databases
+RES*
+research_master.db
+sketches/
+*.db
+*.db-journal
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Temporary & system generated files
+scratch/
+.system_generated/
+.DS_Store

@@ -1,0 +1,48 @@
+{
+  "status": "complete",
+  "project_type": "greenfield",
+  "current_section": "done",
+  "current_question": 4,
+  "completed_sections": [
+    "product",
+    "guidelines",
+    "tech_stack",
+    "workflow",
+    "styleguides"
+  ],
+  "answers": {
+    "project_name": "research",
+    "project_description": "Autonomous research and engineering agent framework designed to conduct deep, systematic, and deterministic investigations with SQLite storage and Conductor orchestration.",
+    "problem_statement": "Difficulty and time cost in conducting deep, systematic, and deterministic research across technical domains.",
+    "target_users": "Data analysts, strategy specialists, and systems engineers",
+    "key_goals": [],
+    "voice_tone": "Professional and technical",
+    "design_principles": [
+      "Simplicity over features",
+      "Performance first"
+    ],
+    "primary_languages": [
+      "Agent Tools",
+      "Python"
+    ],
+    "primary_languages_notes": "Tool-driven autonomous execution with structured markdown rules and task templates.",
+    "frontend_framework": "Vanilla HTML/CSS (No framework)",
+    "backend_framework": "None - Local file and tool execution",
+    "database": "SQLite",
+    "infrastructure": "Self-hosted / Local environment",
+    "tdd_strictness": "Flexible",
+    "commit_strategy": "Conventional Commits",
+    "code_review": "Required for core architecture and agent behavior rules",
+    "verification": "Upon completion of each task"
+  },
+  "files_created": [
+    "conductor/index.md",
+    "conductor/product.md",
+    "conductor/product-guidelines.md",
+    "conductor/tech-stack.md",
+    "conductor/workflow.md",
+    "conductor/tracks.md"
+  ],
+  "started_at": "2026-08-31T19:53:13+03:00",
+  "last_updated": "2026-08-31T20:54:02+03:00"
+}

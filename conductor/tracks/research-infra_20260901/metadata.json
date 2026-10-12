@@ -1,0 +1,16 @@
+{
+  "id": "research-infra_20260901",
+  "title": "Research Infrastructure and Task Template",
+  "type": "feature",
+  "status": "complete",
+  "created": "2026-09-01T00:46:19+03:00",
+  "updated": "2026-09-01T00:46:19+03:00",
+  "phases": {
+    "total": 4,
+    "completed": 4
+  },
+  "tasks": {
+    "total": 9,
+    "completed": 9
+  }
+}
